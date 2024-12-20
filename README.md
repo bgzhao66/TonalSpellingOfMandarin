@@ -74,7 +74,7 @@ For syllables such as 知 (zhī), 蚩 (chī), 诗 (shī), 日 (rī), 资 (zī), 
 
 ---
 
-## 4. Syllable Boundaries and Voiceless Consonant
+## 4. Syllable Boundaries and Initial Voiceless Consonant
 
 When multiple syllables are written consecutively, their boundaries can sometimes be unclear, especially when the non-initial syllables begin with vowels. To avoid confusion, this system uses 'v' as an initial voiceless consonant.
 
