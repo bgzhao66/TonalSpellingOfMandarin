@@ -91,3 +91,5 @@ This tonal spelling system for Mandarin Chinese offers a consistent way to repre
 ## 6. References
 
 [1] http://www.moe.gov.cn/ewebeditor/uploadfile/2015/03/02/20150302165814246.pdf "中华人民共和国拼音方案决议", 1958
+
+[2] https://www.pinyin.info/romanization/compare/gwoyeu_romatzyh.html "Romanization comparison chart”, 2004 
