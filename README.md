@@ -70,7 +70,8 @@ Below is a comprehensive table of finals with tonal variations, which demonstrat
 
 ### Special Cases
 
-For syllables such as 知 (zhī), 蚩 (chī), 诗 (shī), 日 (rī), 资 (zī), 雌 (cī), and 思 (sī), the final **i** with its four tonal spelling forms are used.
+* For syllables such as 知 (zhī), 蚩 (chī), 诗 (shī), 日 (rī), 资 (zī), 雌 (cī), and 思 (sī), the final **i** with its four tonal spelling forms are used.
+* When the initial constants **j**, **q**, or **x** are followed by **eu** in a syllable, the **e** in **eu** is dropped.
 
 ---
 
