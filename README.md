@@ -77,7 +77,7 @@ Below is a comprehensive table of finals with tonal variations, which demonstrat
 
 ## 4. Syllable Boundaries and Voiceless Initial Consonant
 
-When multiple syllables are written consecutively, their boundaries can sometimes be unclear, especially when non-initial syllables begin with vowels. In such cases, this system uses <code>v</code> as a voiceless initial consonant to seperate them.
+When multiple syllables are written consecutively, their boundaries can sometimes be unclear, especially when non-initial syllables begin with vowels. In such cases, this system uses <code>v</code> as a voiceless initial consonant to separate them.
 
 Meanwhile, the consonants have a rightward affinity property, forming a syllable with the vowels that follow them on the right.
 
