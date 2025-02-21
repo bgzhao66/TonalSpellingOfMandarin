@@ -33,18 +33,18 @@ Below is a comprehensive table of finals with tonal variations, which demonstrat
 | **Final (Base Form)** | **1st Tone** | **2nd Tone** | **3rd Tone** | **4th Tone** |
 | --------------------- | ------------ | ------------ | ------------ | ------------ |
 | a (啊)                | a            | ar           | aa           | ah           |
-| ai (哀)               | ai           | air          | ae           | ay           |
-| ao (熬)               | ao           | aor          | au           | aw           |
-| an (安)               | an           | arn          | aan          | am           |
-| ang (昂)              | ang          | arng         | aang         | amg          |
 | o (喔)                | o            | or           | oo           | oh           |
-| ou (欧)               | ou           | our          | oa           | ow           |
-| ong (轰的韵母)         | ong          | orng         | oong         | omg          |
 | e (鹅)                | e            | er           | ee           | eh           |
+| ai (哀)               | ai           | air          | ae           | ay           |
 | ei (欸)               | ei           | eir          | ea           | ey           |
-| en (恩)               | en           | ern          | een          | em           |
-| eng (亨的韵母)         | eng          | erng         | eeng         | emg          |
+| ao (熬)               | ao           | aor          | au           | aw           |
+| ou (欧)               | ou           | our          | oa           | ow           |
 | el (儿)               | el           | erl          | eel          | ehl          |
+| an (安)               | an           | arn          | aan          | am           |
+| en (恩)               | en           | ern          | een          | em           |
+| ang (昂)              | ang          | arng         | aang         | amg          |
+| eng (亨的韵母)         | eng          | erng         | eeng         | emg          |
+| ong (轰的韵母)         | ong          | orng         | oong         | omg          |
 | i (衣)                | i            | ir           | yi           | ih           |
 | in (因)               | in           | irn          | yin          | im           |
 | ing (英)              | ing          | irng         | ying         | img          |
@@ -52,11 +52,12 @@ Below is a comprehensive table of finals with tonal variations, which demonstrat
 | ie (耶)               | ie           | ye           | iee          | ieh          |
 | iao (腰)              | iao          | yao          | iau          | iaw          |
 | iou (忧)              | iou          | you          | ioa          | iow          |
+| ian (烟)              | ian          | yan          | iaan         | iam          |
 | iang (央)             | iang         | yang         | iaang        | iamg         |
 | iong (雍)             | iong         | yong         | ioong        | iomg         |
 | u (乌)                | u            | ur           | wu           | uh           |
-| ua (蛙)               | ua           | wa          | uaa          | uah          |
-| uo (窝)               | uo           | wo          | uoo          | uoh          |
+| ua (蛙)               | ua           | wa           | uaa          | uah          |
+| uo (窝)               | uo           | wo           | uoo          | uoh          |
 | uai (歪)              | uai          | wai          | uae          | uay          |
 | uei (威)              | uei          | wei          | uea          | uey          |
 | uan (弯)              | uan          | wan          | uaan         | uam          |
@@ -70,18 +71,20 @@ Below is a comprehensive table of finals with tonal variations, which demonstrat
 
 ### Special Cases
 
-* For syllables such as 知 (zhī), 蚩 (chī), 诗 (shī), 日 (rī), 资 (zī), 雌 (cī), and 思 (sī), the final **i** with its four tonal spelling forms are used.
-* When the initial constants **j**, **q**, or **x** are followed by **eu** in a syllable, the **e** in **eu** is dropped.
+* When the initial constants <code>j</code>, <code>q</code>, or <code>x</code> are followed by <code>eu</code> in a syllable, the <code>e</code> in <code>eu</code> is dropped.
 
 ---
 
 ## 4. Syllable Boundaries and Voiceless Initial Consonant
 
-When multiple syllables are written consecutively, their boundaries can sometimes be unclear, especially when the non-initial syllables begin with vowels. To avoid confusion, this system uses 'v' as a voiceless initial consonant.
+* When multiple syllables are written consecutively, their boundaries can sometimes be unclear, especially when non-initial syllables begin with vowels. In such cases, this system uses <code>v</code> as a voiceless initial consonant to seperate them.
 
-### Example:
+* Meanwhile, the consonants have a rightward affinity property, forming a syllable with the vowels that follow them on the right.
 
-- **皮袄** (Pí ǎo): Written as "pirvau"
+### Examples:
+
+- **皮袄** (pí ǎo): Written as <code>pirvau</code>
+- **瓜农** (guā nóng): Written as <code>guanorng</code>
 
 ---
 
