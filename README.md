@@ -83,7 +83,6 @@ However, when multiple syllables are written consecutively, their boundaries can
 
 ### Examples:
 
-- **瓜农** (guā nóng): Written as <code>guanorng</code>
 - **皮袄** (pí ǎo): Written as <code>pirvau</code>
 
 ---
